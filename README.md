@@ -1,6 +1,6 @@
 # Supply-Chain-Data-Analysis-and-Transformation
 
-Normalize weights to a 1-100 scale for path optimization.
+Transformation of a supply chain dataset into a graphical representation with nodes and edges, for applying graph-based analysis algorithms.
 
 4. **Analysis Tasks**  
 - **Pathfinding**: Use Dijkstra’s algorithm for shortest-path queries.  
@@ -13,7 +13,7 @@ Normalize weights to a 1-100 scale for path optimization.
 ## 📈 Results
 
 - **Graph Visualization**: Interactive Neo4j graphs (e.g., supplier-retailer interactions, shipment routes).  
-- **Cluster Analysis**: Nodes grouped by attributes (see [Figures 3-8] in the paper).  
+- **Cluster Analysis**: Nodes grouped by attributes (see [Figures 3-8] in the [paper](https://github.com/mahmoud99-cell/Supply-Chain-Data-Analysis-and-Transformation/blob/main/Supply_Chain_Data_Transformation_and_Graphical_Analysis_using_Neo4j.pdf).  
 - **Optimal Paths**: Least-cost routes between suppliers, warehouses, and customers.  
 
 ---
