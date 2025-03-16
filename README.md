@@ -13,7 +13,7 @@ Normalize weights to a 1-100 scale for path optimization.
 ## 📈 Results
 
 - **Graph Visualization**: Interactive Neo4j graphs (e.g., supplier-retailer interactions, shipment routes).  
-- **Cluster Analysis**: Nodes grouped by attributes (see [Figures 3-8](#references) in the paper).  
+- **Cluster Analysis**: Nodes grouped by attributes (see [Figures 3-8] in the paper).  
 - **Optimal Paths**: Least-cost routes between suppliers, warehouses, and customers.  
 
 ---
